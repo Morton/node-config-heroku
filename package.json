@@ -17,7 +17,7 @@
   "author": "Jesse Ditson <jesse.ditson@gmail.com>",
   "license": "BSD",
   "dependencies": {
-    "config": "~0.4.16",
+    "config": "~1.16.0",
     "commander": ">=1.0.1- <1.1.0-"
   },
   "bin": {
